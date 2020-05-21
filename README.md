@@ -10,3 +10,6 @@ And, as an added bonus, TELEBOT glows in the dark.
 Now, with TELEBOT, your friends can keep you company... even at night!
 
 <img src="glow.png" width=50%>
+
+<b>Check out the build/demonstration video on YouTube:</b>
+https://www.youtube.com/watch?v=XXLaeMre5Ac
