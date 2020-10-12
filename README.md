@@ -2,7 +2,7 @@ Introducing TELEBOT, a (partially) 3D printed telepresence robot we made out of 
 
 <img src="telebotgif.gif" width=50%>
 
-Simply inject your friends' consciousnesses into the robot using a standard 3.5mm audio cable, then enjoy some quality time - face to face!
+Inject friends' consciousnesses into the robot using a 3.5mm auxillary cable to enjoy some quality time - face to face!
 
 After possessing the robot, your friends can choose from one of three customization options (wizard hat, cowboy hat, or top hat) to really give it that "personal touch".
 
